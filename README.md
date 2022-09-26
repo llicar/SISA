@@ -1,5 +1,5 @@
 
-![logo sisa](imagens/logo.png)
+![logo sisa](imagens/banner.png)
 
 > Sistema de gestão de processos de Recursos Humanos.
 
