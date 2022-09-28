@@ -7,8 +7,7 @@
 - Backend API NodeJs https://github.com/llicar/sisa-api
 - Frontend ReactJs https://github.com/llicar/sisa-app
 
-### Tela inicial 
-<img width="800" margin="center" src="screenshots/inicio.png"/>
+<img width="800" margin="center" src="screenshots/banner-telas.png"/>
 
 O SISA é um sistema desenvolvido para otimizar alguns processos de gestão de recursos humanos. <br>
 **Totalmente personalizado para atender os processos da instituição no qual eu trabalho atualmente:** <br>
