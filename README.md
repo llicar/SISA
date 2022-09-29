@@ -29,7 +29,7 @@ como também na Aprendizagem Profissional sendo uma das principais entidades cer
   (imagem)
   
   - Emissão de documentos admissionais com os dados do Jovem Aprendiz
-  -- Após o cadastro do aprendiz no sistema, é possivel realizar a emissão de todos os documentos nescessários para a admissão automaticamente.
+  - - Após o cadastro do aprendiz no sistema, é possivel realizar a emissão de todos os documentos nescessários para a admissão automaticamente.
   
   (imagem) 
   
