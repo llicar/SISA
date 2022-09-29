@@ -29,10 +29,35 @@ como também na Aprendizagem Profissional sendo uma das principais entidades cer
   (imagem)
   
   - Emissão de documentos admissionais com os dados do Jovem Aprendiz
-     - *Após o cadastro do aprendiz no sistema, é possivel realizar a emissão de todos os documentos nescessários para a admissão automaticamente.*
+     - *Após o cadastro do aprendiz no sistema, é possivel realizar a emissão dos documentos nescessários para a admissão automaticamente.*
   
   (imagem) 
   
-  - 
+  - Controle de ausências de Jovens Aprendizes
+     - Registrar e acompanhar as ausencias dos aprendizes.
+   (imagem)
+
+  - Emissão de relatórios de frequencia mensal.
+  (imagem)
+  
+  - Controle de estoque de uniformes
+  (imagem)
+
+  - Lançamento e controle de atestados de colaboradores
+
+  (imagem)
+  
+  > Todas funcionalidades mencionadas, tem a possibilidade de exportação de dados em excel.
+
+### Atualizações futuras
+
+ - Carômetro
+    - Incluir registro fotográfico de todos os aprendizes, e disponililizar uma área com todas as fotos para facilitar na gestão e orientações das equipes.
+ 
+ - Gestão de atendimentos técnicos
+    - Essa área será exclusiva para o registro e acompanhamento de casos técnicos relacionados ao aprendiz .
+
+
+  
 
  
