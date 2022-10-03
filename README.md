@@ -26,7 +26,7 @@ como também na Aprendizagem Profissional sendo uma das principais entidades cer
  
   - Registro, consulta e controle de Jovens Aprendizes, Funcionários e Empresas Parceiras.
   
-  (imagem)
+  <img src="imagens/cadsstro-jovem.gif"/>
   
   - Emissão de documentos admissionais com os dados do Jovem Aprendiz
      - *Após o cadastro do aprendiz no sistema, é possivel realizar a emissão dos documentos nescessários para a admissão automaticamente.*
