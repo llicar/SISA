@@ -27,8 +27,8 @@ como também na Aprendizagem Profissional sendo uma das principais entidades cer
   - Registro, consulta e controle de Jovens Aprendizes, Funcionários e Empresas Parceiras.
   
   <div display="flex">
-     <img width="400" src="imagens/cadastro-jovem.gif"/>
-    <img width="400" src="imagens/pesquisa-jovem.gif"/>
+     <img width="600" src="imagens/cadastro-jovem.gif"/>
+    <img width="600" src="imagens/pesquisa-jovem.gif"/>
   </div>
 
   
