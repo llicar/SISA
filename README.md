@@ -35,7 +35,7 @@ como também na Aprendizagem Profissional sendo uma das principais entidades cer
   - Emissão de documentos admissionais com os dados do Jovem Aprendiz
      - *Após o cadastro do aprendiz no sistema, é possivel realizar a emissão dos documentos nescessários para a admissão automaticamente.*
   
-  (imagem) 
+<img width="500" src="imagens/gerar-docs.gif"/>
   
   - Controle de ausências de Jovens Aprendizes
      - Registrar e acompanhar as ausencias dos aprendizes.
