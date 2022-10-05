@@ -64,6 +64,8 @@ como também na Aprendizagem Profissional sendo uma das principais entidades cer
   </div>
   
   > Todas funcionalidades mencionadas, tem a possibilidade de exportação de dados em excel.
+  
+  <img width="500" src="imagens/excel.png"/>
 
 ### Atualizações futuras
 
