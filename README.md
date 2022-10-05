@@ -31,8 +31,9 @@ como também na Aprendizagem Profissional sendo uma das principais entidades cer
     <img width="500" src="imagens/pesquisa-jovem.gif"/>
   </div>
 
-  
-  - Emissão de documentos admissionais com os dados do Jovem Aprendiz
+<br>
+<br>
+  - <b>Emissão de documentos admissionais com os dados do Jovem Aprendiz</b>
      - *Após o cadastro do aprendiz no sistema, é possivel realizar a emissão dos documentos nescessários para a admissão automaticamente.*
   
 <img width="500" src="imagens/gerar-docs.gif"/>
