@@ -83,9 +83,15 @@ como também na Aprendizagem Profissional sendo uma das principais entidades cer
 
  - Carômetro
     - Incluir registro fotográfico de todos os aprendizes, e disponililizar uma área com todas as fotos para facilitar na gestão e orientações das equipes.
- 
+   <div display="flex">
+    <img width="500" src="imagens/CAROMETRO.PNG"/>
+  </div>
  - Gestão de atendimentos técnicos
     - Essa área será exclusiva para o registro e acompanhamento de casos técnicos relacionados ao aprendiz .
+    <div display="flex">
+      <img width="500" src="imagens/abrir-caso.PNG"/>
+      <img width="500" src="imagens/CASOS.PNG"/>
+    </div>
 
 
   
