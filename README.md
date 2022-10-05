@@ -24,7 +24,7 @@ como também na Aprendizagem Profissional sendo uma das principais entidades cer
  
  ## Funcionalidades
  
-  - ##Registro, consulta e controle de Jovens Aprendizes, Funcionários e Empresas Parceiras.
+  - <b>Registro, consulta e controle de Jovens Aprendizes, Funcionários e Empresas Parceiras.</b>
   
   <div display="flex">
      <img width="500" src="imagens/cadastro-jovem.gif"/>
