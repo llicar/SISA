@@ -58,7 +58,10 @@ como também na Aprendizagem Profissional sendo uma das principais entidades cer
 
   - Lançamento e controle de atestados de colaboradores
 
-  (imagem)
+    <div display="flex">
+     <img width="500" src="imagens/lancar-atestado.gif"/>
+    <img width="500" src="imagens/consultar-atestado.gif"/>
+  </div>
   
   > Todas funcionalidades mencionadas, tem a possibilidade de exportação de dados em excel.
 
