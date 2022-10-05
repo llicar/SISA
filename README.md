@@ -39,7 +39,11 @@ como também na Aprendizagem Profissional sendo uma das principais entidades cer
   
   - Controle de ausências de Jovens Aprendizes
      - Registrar e acompanhar as ausencias dos aprendizes.
-   (imagem)
+     
+  <div display="flex">
+     <img width="500" src="imagens/cadastrar-falta.gif"/>
+    <img width="500" src="imagens/consultar-falta.gif"/>
+  </div>
 
   - Emissão de relatórios de frequencia mensal.
   (imagem)
