@@ -97,7 +97,7 @@ como também na Aprendizagem Profissional sendo uma das principais entidades cer
       <img width="500" src="imagens/abrir-caso.png"/>
       <img width="500" src="imagens/CASOS.png"/>
     </div>
-    *Protótico Figma*
+  
 
 
   
