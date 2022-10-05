@@ -90,13 +90,13 @@ como também na Aprendizagem Profissional sendo uma das principais entidades cer
   <br/>
   <br/>
   <br/>
-  
  - Gestão de atendimentos técnicos
     - Essa área será exclusiva para o registro e acompanhamento de casos técnicos relacionados ao aprendiz .
     <div display="flex">
       <img width="500" src="imagens/abrir-caso.png"/>
       <img width="500" src="imagens/CASOS.png"/>
     </div>
+    *Protótico Figma*
   
 
 
