@@ -54,7 +54,7 @@ como também na Aprendizagem Profissional sendo uma das principais entidades cer
   - Emissão de relatórios de frequencia mensal.
   
   - Controle de estoque de uniformes
-  (imagem)
+  <img width="500" src="imagens/uniformes.png"/>
 
   - Lançamento e controle de atestados de colaboradores
 
