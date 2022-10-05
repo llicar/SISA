@@ -38,6 +38,9 @@ como também na Aprendizagem Profissional sendo uma das principais entidades cer
      - *Após o cadastro do aprendiz no sistema, é possivel realizar a emissão dos documentos nescessários para a admissão automaticamente.*
   
 <img width="500" src="imagens/gerar-docs.gif"/>
+  <br/>
+  <br/>
+  <br/>
   
   - Controle de ausências de Jovens Aprendizes
      - Registrar e acompanhar as ausencias dos aprendizes.
@@ -52,11 +55,16 @@ como também na Aprendizagem Profissional sendo uma das principais entidades cer
   <br/>
 
   - Emissão de relatórios de frequencia mensal.
+    <br/>
+  <br/>
   
   - Controle de estoque de uniformes
   <div display="flex">
    <img width="500" src="imagens/uniformes.png"/>
   </div>
+  <br/>
+  <br/>
+  <br/>
 
   - Lançamento e controle de atestados de colaboradores
 
@@ -64,6 +72,8 @@ como também na Aprendizagem Profissional sendo uma das principais entidades cer
     <img width="500" src="imagens/lancar-atestado.gif"/>
     <img width="500" src="imagens/consulta-atestado.gif"/>
   </div>
+  <br/>
+  <hr/>
   
   > Todas funcionalidades mencionadas, tem a possibilidade de exportação de dados em excel.
   
