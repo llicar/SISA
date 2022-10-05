@@ -86,7 +86,7 @@ como também na Aprendizagem Profissional sendo uma das principais entidades cer
   <div display="flex">
     <img width="500" src="imagens/CAROMETRO.png"/>
   </div>
-  *Protótico Figma*
+  *Protótipo Figma*
   <br/>
   <br/>
   <br/>
@@ -96,7 +96,7 @@ como também na Aprendizagem Profissional sendo uma das principais entidades cer
       <img width="500" src="imagens/abrir-caso.png"/>
       <img width="500" src="imagens/CASOS.png"/>
     </div>
-    *Protótico Figma*
+    *Protótipo Figma*
   
 
 
