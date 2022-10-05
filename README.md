@@ -54,18 +54,18 @@ como também na Aprendizagem Profissional sendo uma das principais entidades cer
   - Emissão de relatórios de frequencia mensal.
   
   - Controle de estoque de uniformes
-  <img width="500" src="imagens/uniformes.png"/>
+  <div display="flex"><img width="500" src="imagens/uniformes.png"/></div>
 
   - Lançamento e controle de atestados de colaboradores
 
     <div display="flex">
      <img width="500" src="imagens/lancar-atestado.gif"/>
-    <img width="500" src="imagens/consultar-atestado.gif"/>
+    <img width="500" src="imagens/consulta-atestado.gif"/>
   </div>
   
   > Todas funcionalidades mencionadas, tem a possibilidade de exportação de dados em excel.
   
-  <img width="500" src="imagens/excel.png"/>
+  <div display="flex"><img width="500" src="imagens/excel.png"/></div>
 
 ### Atualizações futuras
 
