@@ -30,6 +30,9 @@ como também na Aprendizagem Profissional sendo uma das principais entidades cer
      <img width="500" src="imagens/cadastro-jovem.gif"/>
     <img width="500" src="imagens/pesquisa-jovem.gif"/>
   </div>
+  <br/>
+  <br/>
+  <br/>
 
   -  <b marginTop="300">Emissão de documentos admissionais com os dados do Jovem Aprendiz</b>
      - *Após o cadastro do aprendiz no sistema, é possivel realizar a emissão dos documentos nescessários para a admissão automaticamente.*
@@ -43,9 +46,12 @@ como também na Aprendizagem Profissional sendo uma das principais entidades cer
      <img width="500" src="imagens/cadastrar-falta.gif"/>
     <img width="500" src="imagens/consultar-faltas.gif"/>
   </div>
+  
+  <br/>
+  <br/>
+  <br/>
 
   - Emissão de relatórios de frequencia mensal.
-  (imagem)
   
   - Controle de estoque de uniformes
   (imagem)
